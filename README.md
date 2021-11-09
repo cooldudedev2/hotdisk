@@ -21,6 +21,8 @@ eleventh,drag autorun.inf to d: and doom
 go to d: and open autorun.inf and when you see (directory)= next to it put d:/doom.exe 
 tevelth,save it autorun.inf
 thirteenth,take out the disk and put it some where safe
+fourteenth,when you want to play it put the disc in and it will automaticlly run the game like its a gsme disc that you bought at the store
+
 
 
 
